@@ -4,9 +4,10 @@
 using namespace std;
 
 
-int *final_bBoard ;
-
 //Knapsack Billboard, By Nikhil Bisht MCA 3rd Sem Roll No.24
+
+
+int *final_bBoard ;
 
 
 int maxBillBoard(int *x ,int s, int temp){
